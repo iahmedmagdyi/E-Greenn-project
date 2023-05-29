@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/E-Greenn-project/static/css/main.712569ed.css",
+    "main.js": "/E-Greenn-project/static/js/main.5d7c2c85.js",
+    "static/media/backgrond.png": "/E-Greenn-project/static/media/backgrond.669181e22532bf810f57.png",
+    "static/media/card2.png": "/E-Greenn-project/static/media/card2.320cfd57285006bd91dc.png",
+    "static/media/card1.png": "/E-Greenn-project/static/media/card1.12f81671b74de0368b9c.png",
+    "index.html": "/E-Greenn-project/index.html",
+    "main.712569ed.css.map": "/E-Greenn-project/static/css/main.712569ed.css.map",
+    "main.5d7c2c85.js.map": "/E-Greenn-project/static/js/main.5d7c2c85.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.712569ed.css",
+    "static/js/main.5d7c2c85.js"
+  ]
+}
